@@ -3,6 +3,6 @@ Range Anxiety is one of teh major concerns for EVs , inorder to address this iss
 # Dataset Used : 
 Sensor data from ardiuno
 # Models used :
-Randomforest 
+Random Forest Regression 
 # Final Outcome :
 predicts the range in km 
